@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TUHH Institute of Entrepreneurship</title>
+    <link>https://www.startupengineer.io/authors/wick/</link>
+      <atom:link href="https://www.startupengineer.io/authors/wick/index.xml" rel="self" type="application/rss+xml" />
+    <description>TUHH Institute of Entrepreneurship</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© TUHH Institute of Entrepreneurship, 2020</copyright>
+    <image>
+      <url>https://www.startupengineer.io/images/logo_hub5a666e6c2587230413cd2a38cc995f6_206533_300x300_fit_lanczos_2.png</url>
+      <title>TUHH Institute of Entrepreneurship</title>
+      <link>https://www.startupengineer.io/authors/wick/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/tw/authors/admin/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/admin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tw"
+                href="/tw/authors/admin/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tw/authors/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tw"
+                href="/tw/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tw/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tw"
+                href="/tw/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tw/post/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tw"
+                href="/tw/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tw/publication_types/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tw"
+                href="/tw/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tw/talk/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tw"
+                href="/tw/talk/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tw/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tw"
+                href="/tw/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tw/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tw"
+                href="/tw/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tw/publication/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tw"
+                href="/tw/publication/"
+                />
+  </url>
+  
+</urlset>

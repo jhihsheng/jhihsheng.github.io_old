@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>發表 | 理論光與物質</title>
+    <link>/tw/publication/</link>
+      <atom:link href="/tw/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>發表</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>tw</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>發表</title>
+      <link>/tw/publication/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -87,6 +87,20 @@
   </url>
   
   <url>
+    <loc>/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tw"
+                href="/tw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+  </url>
+  
+  <url>
     <loc>/talk/</loc>
     <xhtml:link
                 rel="alternate"
@@ -111,20 +125,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tw"
-                href="/tw/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
                 />
   </url>
   
